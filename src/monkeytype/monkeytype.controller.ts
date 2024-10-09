@@ -67,7 +67,7 @@ export class MonkeytypeController {
     <text x="230" y="55%" font-family='"Kanit", sans-serif' font-size="16" fill="#DFD0B8" >wpm</text>
     <text x="350" y="55%" font-family='"Kanit", sans-serif' font-size="16" fill="#DFD0B8">#${allTime30s}</text>
 
-	<text x="50" y="70%" font-family='"Kanit", sans-serif' font-size="16" font-weight="500" fill="#DFD0B8">30 S</text>
+	<text x="50" y="70%" font-family='"Kanit", sans-serif' font-size="16" font-weight="500" fill="#DFD0B8">60 S</text>
     <text x="160" y="70%" font-family='"Kanit", sans-serif' font-size="16" font-weight="500" fill="#DFD0B8">${bestWpm60}</text>
     <text x="230" y="70%" font-family='"Kanit", sans-serif' font-size="16" fill="#DFD0B8" >wpm</text>
     <text x="350" y="70%" font-family='"Kanit", sans-serif' font-size="16" fill="#DFD0B8">#${allTime60s}</text>
